@@ -13,10 +13,10 @@ before_install:
 # the 'install' step will run `bundle install` by default.
 script: ./script/cibuild
 
-# branch whitelist
-branches:
-  only:
-  - master
+## branch whitelist
+#branches:
+#  only:
+#  - master
 
 env:
   global:
