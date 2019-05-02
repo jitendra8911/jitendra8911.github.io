@@ -1,7 +1,8 @@
 ---
 
-layout: post
+layout: project
 author: Jitendra
+categories: [projects]
 
 ---
 

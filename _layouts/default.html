@@ -1,13 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    {% seo %}
-</head>
-<body>
-{% include navigation.html %}
-{{ content }}
-</body>
+<html>
+    {% include head.html %}
+
+    <body>
+        <div class="wrapper">
+            {% include sidebar.html %}
+
+            <main class="the-content" role="main">
+                {% include search.html %}
+                {{ content }}
+            </main>
+        </div>
+
+        {% include scripts.html %}
+    </body>
 </html>
