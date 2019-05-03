@@ -17,6 +17,8 @@
     {% if site.show_menu == 1 %}
         {% if site.pages %}
         <div class="mainmenu">
+            <p>{{ site.baseurl }} - {{site.url}}</p>
+            <p>{{ page.url }}</p>
             <a href="{{ site.baseurl | prepend: site.url }}" {% if page.url =="/" %}class="active"{% endif %}>Home</a>
             {% for p in site.pages %}
                 {% if p.layout == 'page' or p.layout == 'project' %}
