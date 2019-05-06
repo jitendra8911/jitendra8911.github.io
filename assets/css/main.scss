@@ -196,4 +196,20 @@
 	&.post { padding: 40px; font-size: 16px; }
 }
 
+.note {
+	color: red;
+}
+
+pre {
+	background-color: #f6f8fa;
+	border-radius: 3px;
+	font-size: 85%;
+	line-height: 1.45;
+	overflow: auto;
+	padding: 16px;
+	word-wrap: normal;
+	margin-bottom: 16px;
+	margin-top: 0;
+}
+
 @import "responsive";

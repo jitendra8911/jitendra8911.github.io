@@ -3,8 +3,7 @@ layout: post
 date: 2016-03-11 23:56
 title:  "Sample Data"
 mood: happy
-category: 
-- docs
+category: docs
 ---
 
 Markdown (or Textile), Liquid, HTML & CSS go in. Static sites come out ready for deployment.
