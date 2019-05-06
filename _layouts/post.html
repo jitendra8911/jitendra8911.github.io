@@ -15,6 +15,7 @@ layout: default
                 </li>
                 {% endif %}
             {% endif %}
+            <li><a href="{{site.baseurl}}/{{site.category_dir}}/{{category}}#disqus_thread/">Post a comment</a></li>
         </ul>
         <h2 itemprop="name headline">{{ page.title }}</h2>
     </header>
@@ -46,18 +47,18 @@ layout: default
 <aside class="comments" role="complementary">
     <div id="disqus_thread"></div>
     <script>
+
         var disqus_config = function () {
-            this.page.url = '{{ page.url | prepend: site.baseurl | prepend: site.url }}';
-            this.page.identifier = '{{ page.date | date: "%-m/%-d/%Y" }}';
+        this.page.url = '{{ page.url | prepend: site.baseurl | prepend: site.url }}';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = '{{ page.date | date: "%-m/%-d/%Y" }}'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
         };
-        (function() {
+        (function() { // DON'T EDIT BELOW THIS LINE
             var d = document, s = d.createElement('script');
-
-            s.src = '//{{site.disqus}}.disqus.com/embed.js';
-
+            s.src = 'https://jitendramalakalapalli.disqus.com/embed.js';
             s.setAttribute('data-timestamp', +new Date());
             (d.head || d.body).appendChild(s);
         })();
     </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 </aside>
 {% endif %}

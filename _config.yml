@@ -7,7 +7,7 @@ avatar: /assets/images/profile-pic.jpg
 favicon: /favicon.ico
 twitter_handler: your_handler
 analytics_code: UA-XXXXXXX-2
-disqus: jitendramalakalapalli.com
+disqus: localhost
 
 # Social Accounts
 social_networks:
