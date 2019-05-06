@@ -3,6 +3,8 @@ layout: post
 date: 2019-05-04 15:04
 title: "What is Markdown?"
 category: docs
+tags:
+- documentation
 ---
 
 [Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"} is a text to HTML conversion tool. It provides you a way to write
