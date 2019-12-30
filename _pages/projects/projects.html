@@ -1,18 +1,8 @@
 ---
-layout: project
+layout: default
 title: "Projects"
 permalink: "/projects/"
 ---
 
-<div>
-    <h1>My Projects</h1>
-
-    <ul>
-        {% for post in site.categories.projects %}
-        <li>
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt }}</p>
-        </li>
-        {% endfor %}
-    </ul>
-</div>
+{% assign listData = site.categories.projects %}
+{% include list.html %}
