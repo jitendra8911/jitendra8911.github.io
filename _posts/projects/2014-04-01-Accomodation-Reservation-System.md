@@ -1,8 +1,9 @@
 ---
 
-layout: project
+layout: post
 author: Jitendra
 categories: [projects]
+comments: false
 
 ---
 

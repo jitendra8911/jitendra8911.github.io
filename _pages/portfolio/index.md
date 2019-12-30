@@ -4,9 +4,35 @@ title:  "Portfolio"
 permalink: "/portfolio/"
 ---
 
-<figure>
-    <img src="https://cdn.dribbble.com/users/1073937/screenshots/5036567/waterfall.png" />
-    <figcaption>Created by <a href="https://dribbble.com/HannahLizSharp" target="_blank_">Hannah Sharp</a></figcaption>
-</figure>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Java, Javascript, Typescript</td>
+</tr>
 
-In addition to writing posts, another thing you may want to do with your Jekyll site is create static pages. By taking advantage of the way Jekyll copies files and directories, this is easy to do. [More Information](https://jekyllrb.com/docs/pages/){:target="_blank"}
+<tr>
+<td><b>Backend Frameworks</b></td>
+<td>NestJS, TypeORM, Spring Boot, Spring Data JPA</td>
+</tr>
+
+<tr>
+<td><b>Web Technologies</b></td>
+<td>ReactJS, AngularJS, Redux, Jest, HTML5, CSS3, Restful, JavaScript, Bootstrap</td>
+</tr>
+
+<tr>
+<td><b>Back-end Tools</b></td>
+<td>ElasticSearch, Postgres</td>
+</tr>
+
+<tr>
+<td><b>Version Control</b></td>
+<td>Git</td>
+</tr>
+
+<tr>
+<td><b>Special Tools</b></td>
+<td>Postman, Jira, Intellij, Grafana, Graylog, pgAdmin, Swagger, Splunk</td>
+</tr>
+
+</table>
