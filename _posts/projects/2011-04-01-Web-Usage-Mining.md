@@ -16,4 +16,4 @@ website experience for users by personalizing and web reorganizing.
 I used apriory algorithm to find out frequently visited and associated web paths students/surfers. The useful pattern we found out was
 that when students visit home->placements => they will most likely visit 2011-placements page.
 
-The code for the project is available at
+The code for the project is available at https://github.com/jitendra8911/projects/tree/master/BTECH_Project
