@@ -3,6 +3,10 @@ layout: page
 title:  "Portfolio"
 permalink: "/portfolio/"
 ---
+
+#### Linkedin 
+[https://www.linkedin.com/in/jitendra-malakalapalli-b0729bb9/](https://www.linkedin.com/in/jitendra-malakalapalli-b0729bb9/){:target="_blank"}
+
 #### Skills And Qualifications
 <table>
 <tr>
