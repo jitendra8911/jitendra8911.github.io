@@ -11,11 +11,11 @@ comments: true
 [Markdown](https://daringfireball.net/projects/markdown/){:target="_blank"} is a text to HTML conversion tool. It provides you a way to write
 text in an easily readable and structured format using it's non-alphabetic characters like <code>#</code> or <code>*</code>. Markdown is written in Perl.
 
+<!--more-->
+
 <figure>
 <img src = "../../assets/images/markdown.png"/>
 </figure>
-
-<!--more-->
 
 The main goal of Markdown is to make text as much readable as possible. An HTML page with lots of tags is very difficult to read. Markdown
 internally converts the web page into XHTML or HTML. Thus makes the life of developer easy.
