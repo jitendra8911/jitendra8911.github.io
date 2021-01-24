@@ -146,6 +146,17 @@
 
 			figcaption { color: $grey-color-light; font-size: 13px; font-style: italic; padding-top: 10px; }
 
+			table {
+				border-collapse: collapse;
+				width: 100%;
+			}
+
+			td,th{
+				border: 2px solid #dddddd;
+				text-align: left;
+				padding: 8px;
+			}
+
 			@import "syntax";
 		}
 
@@ -212,15 +223,6 @@ pre {
 	margin-top: 0;
 }
 
-table {
-	border-collapse: collapse;
-	width: 100%;
-}
 
-td,th{
-	border: 2px solid #dddddd;
-	text-align: left;
-	padding: 8px;
-}
 
 @import "responsive";
