@@ -55,6 +55,12 @@ This line is only separated by a single newline, so it's a separate line in the 
 
 [example.com website built by Internet Assigned Numbers Authority](http://example.com){:target="_blank"}
 
+For links within a page do like following
+
+<code>[Code and Syntax Highlighting](#code-and-syntax-highlighting)</code>
+
+[Code and Syntax Highlighting](#code-and-syntax-highlighting)
+
 #### Images
 <pre>
 Jekyll-logo:
