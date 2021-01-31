@@ -79,3 +79,6 @@ sass:
   sass_dir: assets/partials
   style: compressed
 
+# Plugins
+plugins:
+- jekyll-sitemap

@@ -67,7 +67,7 @@ then start from step 10.
 6. Setup ruby version you want your project to use by issuing: `rbenv local 3.0.0`
 7. configure bundler installation path: `bundle config set --local path 'vendor/path'`
 8. Add jekyll as dependency to our project by running: `bundle add jekyll`
-9. If you want to create default them and pages to your website run: `bundle exec jekyll new --force --skip-bundle`
+9. If you want to create default theme and pages to your website run: `bundle exec jekyll new --force --skip-bundle`
 10. If you already have any gems installed under the vendor/path, delete them as we want to install the gems freshly.
 11. Install gems under local path vendor/path by running: `bundle install`. If you are running into any issues here, make sure
 you are using the correct ruby version for the project by issuing: `rbenv local 3.0.0` and go to step 10.
