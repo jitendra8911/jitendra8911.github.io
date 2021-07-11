@@ -82,3 +82,6 @@ sass:
 # Plugins
 plugins:
 - jekyll-sitemap
+
+# Excludes
+exclude: [vendor]
