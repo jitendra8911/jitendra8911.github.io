@@ -19,4 +19,8 @@ on ISS, it will remain in its orbit and thus avoiding collision with the Earth
 If you remove Earth's gravity from this equation, the ISS will come out of its orbit and keep travelling farther away from Earth. Instead,
 if you remove acceleration force of the ISS from the equation, the ISS will free-fall on the Earth's surface just like an apple falling from the tree.
 
+References
+
+[Neil deGrasse Tyson Explains "What Goes Up, Must Come Down"](https://youtu.be/5wwEFfOzc4c)
+
 

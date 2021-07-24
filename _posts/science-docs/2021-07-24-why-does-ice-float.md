@@ -16,5 +16,5 @@ Ice is 9% less dense than water. The heavier water displaces the lighter ice, so
 
 References
 
-1. https://www.thoughtco.com/why-does-ice-float-604304#:~:text=Ice%20floats%20because%20it%20is,ice%20floats%20to%20the%20top.
-2. https://youtu.be/cF7p5nAPnDU
+1. (https://www.thoughtco.com/why-does-ice-float-604304#:~:text=Ice%20floats%20because%20it%20is,ice%20floats%20to%20the%20top).
+2. [Neil deGrasse Tyson Explains Why Ice Floats](https://youtu.be/cF7p5nAPnDU)
