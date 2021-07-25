@@ -14,7 +14,7 @@ However, astronauts float in ISS because of something called free-falling.
 <!--more-->
 
 Think of it like you are on roller coaster and when you just hit the peak of the path going from downhill to uphill, you will feel weightlessness momentarily. ISS in the orbit
-is in free-fall state all the time throughout its path. But you might wonder, how come if ISS is free-falling, how come it doesn't hit earth?
+is in free-fall state all the time throughout its path. But you might wonder if ISS is free-falling, how come it doesn't hit earth?
 That's a good question. So the ISS travels around the orbit roughly at 5 miles per sec. Because of its acceleration force and Earth's gravity acting simultaneously
 on ISS, it will remain in its orbit and thus avoiding collision with the Earth
 

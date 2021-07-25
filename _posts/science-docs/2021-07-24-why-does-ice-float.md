@@ -9,7 +9,7 @@ comments: true
 ---
 
 It all comes down to density. Water is densest at 4&#176; celsius. Ice is less dense than when water is in liquid form. This is because
-water molecules have a lot of empty spaces between them. Therefore, in order for something to sink all the way to the bottom of water, it should
+water molecules inside ice have a lot of empty spaces between them. Therefore, in order for something to sink all the way to the bottom of water, it should
 have more density than water. This explains why ice doesn't sink.
 
 <!--more-->
